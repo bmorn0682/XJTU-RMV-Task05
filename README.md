@@ -16,6 +16,8 @@ Task05-jiaming bai
 
 第三阶段：利用Python的pytorch训练MLP模型，所用模型特征为输入层为20 * 28 * 3，输出层为九种类型的相似度，对数据集进行训练和测试。并根据数据集样本特征，开发相应的图像预处理函数，以提高识别准确率。
 
+**最终成果：请观看`./video/blue_Processed.mp4`**
+
 ## 三、代码结构
 ```
 ActionDetecion/
@@ -44,9 +46,6 @@ ActionDetecion/
 └── README.md                       # 项目说明（功能、安装、使用）
 ```
 
-<video src="https://github.com/bmorn0682/XJTU-RMV-Task05/blob/main/video/blue_Processed.mp4" width="400" controls>
-  您的浏览器不支持视频标签
-</video>
 
 ## 四、代码说明
 
