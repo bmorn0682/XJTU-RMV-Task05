@@ -44,6 +44,10 @@ ActionDetecion/
 └── README.md                       # 项目说明（功能、安装、使用）
 ```
 
+<video src="https://github.com/bmorn0682/XJTU-RMV-Task05/blob/main/video/blue_Processed.mp4" width="400" controls>
+  您的浏览器不支持视频标签
+</video>
+
 ## 四、代码说明
 
 - 1、在识别装甲板的时候，巧妙地通过两灯条倾斜角是否接近（角度差小于5°），并以灯条中心纵坐标差，长宽比等作为辅助判准，精准识别装甲板，并能在测试视频中无漏帧、错帧。
