@@ -1,5 +1,5 @@
 # 代码文件说明
-ActionDetection.py为主程序
+ActionDetection.py为主程序，依赖以下程序
 
 solvePnP.py为PnP解算功能包
 
