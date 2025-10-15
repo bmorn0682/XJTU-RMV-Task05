@@ -54,7 +54,7 @@ ActionDetecion/
 
 ## 五、模型训练结果展示
 
-![模型训练损失函数和正确率](https://github.com/bmorn0682/XJTU-RMV-Task05/tree/main/image/training_loss_accuracy.png)
+![模型训练损失函数和正确率](https://github.com/bmorn0682/XJTU-RMV-Task05/blob/main/image/training_loss_accuracy.png?raw=true)
 
 ## 六、模型测试说明
 对ActionDetection.py的main函数做如下修改即可
